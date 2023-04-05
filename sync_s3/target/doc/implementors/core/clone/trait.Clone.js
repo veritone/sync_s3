@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"sync_s3":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.67.1/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"sync_s3/struct.Bucket.html\" title=\"struct sync_s3::Bucket\">Bucket</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
