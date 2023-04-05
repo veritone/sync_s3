@@ -1,4 +1,4 @@
 **/*.rs.bk
 *.pdb
 sync_s3/target/debug/
-sync_s3_target/release/
+sync_s3/target/release/
